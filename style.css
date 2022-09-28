@@ -13,3 +13,10 @@ body{
 .resume{
     border: 1px solid #7510F7;
 }
+.navbar-nav li:hover {
+    letter-spacing: 0.25rem;
+}
+.navbar-nav li {
+    display: inline-block;
+    transition: all linear .3s;
+}
