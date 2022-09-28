@@ -57,6 +57,11 @@ body{
     font-weight: 700;
 }
 .about-head{
-    color: #8B95A1;
+    color: #657883;
     font-weight: 700;
+}
+.about-con{
+    color: #657883;
+    font-size: 1em;
+    max-width: 450px;
 }
