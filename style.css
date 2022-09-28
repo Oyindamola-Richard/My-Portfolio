@@ -55,6 +55,7 @@ body{
 .name{
     color: #121A38;
     font-weight: 700;
+    margin-top: 0.5em;
 }
 .about-head{
     color: #657883;
