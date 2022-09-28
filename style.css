@@ -68,3 +68,7 @@ body{
     max-width: 450px;
     margin-top: 0.5em;
 }
+.butn{
+    width: fit-content;
+    margin: auto;
+}
