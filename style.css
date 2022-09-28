@@ -5,3 +5,8 @@
 body{
     background-color: #ffffff;
 }
+.navbar-nav{
+    column-gap: 3em;
+    row-gap: 3em;
+    text-align: center;
+}
