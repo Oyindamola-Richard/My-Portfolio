@@ -39,7 +39,7 @@ body{
     transition: all linear .3s;
 }
 .about{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: grid;
     max-width: 700px;
     margin: auto;
@@ -51,4 +51,8 @@ body{
     color: #7510F7;
     font-weight: 700;
     font-size: 0.9em;
+}
+.name{
+    color: #121A38;
+    font-weight: 700;
 }
