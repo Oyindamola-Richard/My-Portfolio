@@ -47,3 +47,8 @@ body{
 }
 /* .about-container{
 } */
+.hi{
+    color: #7510F7;
+    font-weight: 700;
+    font-size: 0.9em;
+}
