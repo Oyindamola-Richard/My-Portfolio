@@ -5,6 +5,9 @@
 body{
     background-color: #ffffff;
 }
+.brand{
+    border: 3px solid #7510F7;
+}
 .navbar-nav{
     column-gap: 2em;
     row-gap: 3em;
