@@ -11,6 +11,7 @@ body{
     border-top: 0;
     text-align: center;
     color: #7510F7;
+    cursor: pointer;
 }
 .navbar-nav{
     column-gap: 2em;
