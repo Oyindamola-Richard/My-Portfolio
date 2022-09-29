@@ -38,10 +38,12 @@ body{
     display: inline-block;
     transition: all linear .3s;
 }
-.about{
-    border: 1px solid red;
+.top{
     height: 100vh;
 }
+/* .about{
+    border: 1px solid blue;
+} */
 .about-container{
     /* border: 1px solid red; */
     display: grid;
