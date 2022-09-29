@@ -38,7 +38,7 @@ body{
     display: inline-block;
     transition: all linear .3s;
 }
-.about{
+.about-container{
     /* border: 1px solid red; */
     display: grid;
     max-width: 700px;
@@ -62,7 +62,7 @@ body{
     font-weight: 700;
     margin-top: 0.5em;
 }
-.about-con{
+.about-content{
     color: #657883;
     font-size: 1em;
     max-width: 450px;
