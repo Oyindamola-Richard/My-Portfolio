@@ -72,3 +72,7 @@ body{
     width: fit-content;
     margin: auto;
 }
+.btn{
+    color: #7510F7;
+    border: 1px solid #7510F7;
+}
