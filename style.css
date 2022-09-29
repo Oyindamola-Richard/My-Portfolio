@@ -59,18 +59,18 @@ body{
 .name{
     color: #121A38;
     font-weight: 700;
-    margin-top: 0.5em;
+    margin-top: 0.1em;
 }
 .about-head{
     color: #657883;
     font-weight: 700;
-    margin-top: 0.5em;
+    margin-top: 0.2em;
 }
 .about-content{
     color: #657883;
     font-size: 1em;
     max-width: 450px;
-    margin-top: 0.5em;
+    margin-top: 0.2em;
 }
 .butn{
     width: fit-content;
