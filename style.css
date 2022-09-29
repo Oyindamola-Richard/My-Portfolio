@@ -38,6 +38,10 @@ body{
     display: inline-block;
     transition: all linear .3s;
 }
+.about{
+    border: 1px solid red;
+    height: 100vh;
+}
 .about-container{
     /* border: 1px solid red; */
     display: grid;
@@ -45,8 +49,6 @@ body{
     margin: auto;
     padding: 5em 0;
 }
-/* .about-container{
-} */
 .hi{
     color: #7510F7;
     font-weight: 700;
