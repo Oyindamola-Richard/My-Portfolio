@@ -123,6 +123,12 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    animation: bank 4s linear infinite;
+}
+@keyframes bank{
+    40%{background-image: url(/img/bankapp.png);}
+    80%{background-image: url(/img/bankapp2.png);}
+    100%{background-image: url(/img/bankapp2.png);}
 }
 #signup{
     background-image: url(/img/signup.png);
