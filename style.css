@@ -128,6 +128,12 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
+    animation: sign 5s linear infinite;
+}
+@keyframes sign{
+    40%{background-image: url(/img/signup.png);}
+    80%{background-image: url(/img/signin.png);}
+    100%{background-image: url(/img/signin.png);}
 }
 #printivo{
     background-image: url(/img/printivo.png);
