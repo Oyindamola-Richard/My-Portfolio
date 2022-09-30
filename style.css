@@ -102,17 +102,14 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* animation: move 3s linear infinite; */
+    animation: move 4s linear infinite;
+}
+@keyframes move{
+    33%{background-image: url(/img/wwtbam1.png);}
+    66%{background-image: url(/img/wwtbam2.png);}
+    100%{background-image: url(/img/wwtbam3.png);}
 }
 /* #wwtbam:hover{
-} */
-/* @keyframes move{
-    25%{background-image: url(/img/wwtbam1.png);}
-    50%{background-image: url(/img/wwtbam2.png);}
-    100%{background-image: url(/img/wwtbam3.png);}
-} */
-/* #wwtbam:hover{
-    background-image: url(/img/wwtbam1.png);
 } */
 #weather{
     background-image: url(/img/weather.png);
