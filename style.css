@@ -102,9 +102,9 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    animation: move 4s linear infinite;
+    animation: wwtbam 4s linear infinite;
 }
-@keyframes move{
+@keyframes wwtbam{
     33%{background-image: url(/img/wwtbam1.png);}
     66%{background-image: url(/img/wwtbam2.png);}
     100%{background-image: url(/img/wwtbam3.png);}
