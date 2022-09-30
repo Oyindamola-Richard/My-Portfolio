@@ -111,6 +111,9 @@ body{
     100%{background-image: url(/img/wwtbam3.png);}
 }
 /* #wwtbam:hover{
+    background-image: none;
+    backdrop-filter: blur(30px);
+    background-color: rgb(255, 255, 255, 100%);
 } */
 #weather{
     background-image: url(/img/weather.png);
