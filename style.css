@@ -102,11 +102,12 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    animation: wwtbam 4s linear infinite;
+    animation: wwtbam 5s linear infinite;
 }
 @keyframes wwtbam{
-    33%{background-image: url(/img/wwtbam1.png);}
-    66%{background-image: url(/img/wwtbam2.png);}
+    20%{background-image: url(/img/wwtbam.png);}
+    60%{background-image: url(/img/wwtbam1.png);}
+    80%{background-image: url(/img/wwtbam2.png);}
     100%{background-image: url(/img/wwtbam3.png);}
 }
 /* #wwtbam:hover{
@@ -131,9 +132,9 @@ body{
     animation: sign 5s linear infinite;
 }
 @keyframes sign{
-    40%{background-image: url(/img/signup.png);}
-    80%{background-image: url(/img/signin.png);}
-    100%{background-image: url(/img/signin.png);}
+    33%{background-image: url(/img/signup.png);}
+    66%{background-image: url(/img/signin.png);}
+    99%{background-image: url(/img/signin.png);}
 }
 #printivo{
     background-image: url(/img/printivo.png);
