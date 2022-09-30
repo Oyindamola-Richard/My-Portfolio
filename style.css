@@ -194,4 +194,7 @@ body{
     .name{
         font-size: 1.5em;
     }
+    .about-head{
+        font-size: 1.1em;
+    }
 }
