@@ -191,6 +191,8 @@ body{
 }
 .contacts-div{
     border: 1px solid blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 
