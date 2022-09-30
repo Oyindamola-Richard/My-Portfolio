@@ -137,3 +137,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
+#stopwatch{
+    background-image: url(/img/stopwatch.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
