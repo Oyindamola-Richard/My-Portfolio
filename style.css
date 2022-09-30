@@ -187,4 +187,8 @@ body{
         grid-template-columns: 1fr;
         gap: 1em;
     }
+    .project{
+        height: 150px;
+        border-radius: 0.5em;
+    }
 }
