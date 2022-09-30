@@ -119,3 +119,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
+#printivo{
+    background-image: url(/img/printivo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+}
