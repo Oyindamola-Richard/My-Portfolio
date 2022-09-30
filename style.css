@@ -197,9 +197,11 @@ body{
 .mail-div{
     text-align: center;
 }
-
 .mail{
-    border: 1px solid red;
+    color: #7510F7;
+    border: 1px solid #7510F7;
+    max-width: 20em;
+    margin: auto;
 }
 
 
