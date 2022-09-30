@@ -113,3 +113,9 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
 }
+#signup{
+    background-image: url(/img/signup.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
