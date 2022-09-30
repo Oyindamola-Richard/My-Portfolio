@@ -86,7 +86,7 @@ body{
 .wwtbam{
     display: flex;
 }
-.projects-section{
+.projects-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 2em;
