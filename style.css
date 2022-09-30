@@ -131,3 +131,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
+#alarm{
+    background-image: url(/img/alarm.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
