@@ -181,6 +181,10 @@ body{
     background-size: cover; 
 }
 
-/* @media all (max-width: 320px){
-
-} */
+@media all and (max-width: 320px){
+    .projects-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1em;
+    }
+}
