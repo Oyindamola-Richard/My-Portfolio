@@ -183,6 +183,21 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
+.contact-section{
+    border: 1px solid red;
+}
+.contact-container{
+    border: 1px solid red;
+}
+.contacts-div{
+    border: 1px solid blue;
+}
+
+
+
+
+
+
 
 @media all and (max-width: 320px){
     .projects-container{
