@@ -152,6 +152,11 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
+    animation: stopwatch 4s linear infinite;
+}
+@keyframes stopwatch{
+    40%{background-image: url(/img/stopwatch.png);}
+    80%{background-image: url(/img/countdown.png);}
 }
 #atm{
     background-image: url(/img/atm.png);
