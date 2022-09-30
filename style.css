@@ -194,9 +194,12 @@ body{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.mail-div{
+    text-align: center;
+}
+
 .mail{
     border: 1px solid red;
-    text-align: center;
 }
 
 
