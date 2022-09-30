@@ -83,9 +83,6 @@ body{
     background-color: #7510F7;
     color: #ffffff;
 }
-.wwtbam{
-    display: flex;
-}
 .projects-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
