@@ -197,4 +197,8 @@ body{
     .about-head{
         font-size: 1.1em;
     }
+    .about-content{
+        font-size: 0.9em;
+        max-width: 300px;
+    }
 }
