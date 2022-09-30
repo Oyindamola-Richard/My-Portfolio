@@ -101,3 +101,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#weather{
+    background-image: url(/img/weather.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
