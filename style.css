@@ -111,7 +111,7 @@ body{
     background-image: url(/img/bankapp.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 #signup{
     background-image: url(/img/signup.png);
