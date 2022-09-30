@@ -107,3 +107,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#bankapp{
+    background-image: url(/img/bankapp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
