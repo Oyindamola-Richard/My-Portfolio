@@ -143,3 +143,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
+#atm{
+    background-image: url(/img/atm.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
