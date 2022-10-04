@@ -183,19 +183,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
-.contact-section{
-    border: 1px solid red;
-}
-.contact-container{
-    border: 1px solid red;
-}
 .contacts-div{
-    /* border: 1px solid blue; */
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 .contact{
     color: #7510F7;
+    border: 1px solid #7510F7;
     max-width: 20em;
     margin: auto;
     padding: 10px 0 10px 5px;
