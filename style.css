@@ -216,6 +216,9 @@ footer{
 
 /* Resposiveness */
 @media all and (max-width: 320px){
+    .hi{
+        font-size: 0.8em;
+    }
     .projects-container{
         display: grid;
         grid-template-columns: 1fr;
