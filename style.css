@@ -207,6 +207,9 @@ body{
     width: fit-content;
     gap: 3em;    
 }
+footer{
+    text-align: center;
+}
 
 
 
