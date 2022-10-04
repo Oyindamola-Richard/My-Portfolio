@@ -233,4 +233,8 @@ body{
         font-size: 0.9em;
         max-width: 300px;
     }
+    .contacts-div{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }
