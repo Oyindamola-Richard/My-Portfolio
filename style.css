@@ -100,9 +100,11 @@ body{
     height: 200px;
     border-radius: 0.5em;
 }
-/* .pro{
-    color: red;
-} */
+.pro{
+    color: rgb(138, 135, 135);
+    font-size: 0.8em;
+    cursor: pointer;
+}
 #wwtbam{
     background-image: url(/img/wwtbam.png);
     background-position: center;
