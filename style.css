@@ -195,7 +195,7 @@ body{
     grid-template-columns: 1fr 1fr;
 }
 .mail-div{
-    text-align: center;
+    /* text-align: center; */
 }
 .mail{
     color: #7510F7;
@@ -204,7 +204,10 @@ body{
     margin: auto;
 }
 .call-div{
-    text-align: center;
+    /* text-align: center; */
+}
+.p{
+    padding-left: 30px;
 }
 
 
