@@ -41,11 +41,7 @@ body{
 .top{
     height: 100vh;
 }
-/* .about{
-    border: 1px solid blue;
-} */
 .about-container{
-    /* border: 1px solid red; */
     display: grid;
     max-width: 700px;
     margin: auto;
@@ -96,7 +92,6 @@ body{
     gap: 2em;
 }
 .project{
-    /* border: 1px solid red; */
     height: 200px;
     border-radius: 0.5em;
 }
@@ -118,11 +113,6 @@ body{
     80%{background-image: url(/img/wwtbam2.png);}
     100%{background-image: url(/img/wwtbam3.png);}
 }
-/* #wwtbam:hover{
-    background-image: none;
-    backdrop-filter: blur(30px);
-    background-color: rgb(255, 255, 255, 100%);
-} */
 #weather{
     background-image: url(/img/weather.png);
     background-position: center;
@@ -216,7 +206,6 @@ footer{
     text-align: center;
     color: rgb(138, 135, 135);
 }
-
 
 
 /* Resposiveness */
