@@ -308,3 +308,34 @@ footer{
         font-size: 0.9em;
     }
 }
+@media all and (min-width:426px) and (max-width:720px){
+    .hi{
+        font-size: 0.9em;
+    }
+    .projects-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1em;
+    }
+    .project{
+        height: 200px;
+        border-radius: 0.5em;
+    }
+    .name{
+        font-size: 1.5em;
+    }
+    .about-head{
+        font-size: 1em;
+    }
+    .about-content{
+        font-size: 0.9em;
+        max-width: 370px;
+    }
+    .contacts-div{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    footer{
+        font-size: 0.9em;
+    }
+}
