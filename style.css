@@ -202,7 +202,10 @@ body{
 .con{
     padding-left: 30px;
 }
-
+.p{
+    width: fit-content;
+    gap: 5em;    
+}
 
 
 
