@@ -214,7 +214,7 @@ footer{
 
 
 
-
+/* Resposiveness */
 @media all and (max-width: 320px){
     .projects-container{
         display: grid;
