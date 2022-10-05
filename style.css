@@ -62,6 +62,7 @@ body{
     color: #657883;
     font-weight: 700;
     margin-top: 0.2em;
+    animation: move 1.6s ease-in-out;
 }
 .about-content{
     color: #657883;
