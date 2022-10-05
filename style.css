@@ -69,6 +69,7 @@ body{
     font-size: 1em;
     max-width: 450px;
     margin-top: 0.2em;
+    animation: move 1.7s ease-in-out;
 }
 .butn{
     width: fit-content;
