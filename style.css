@@ -56,6 +56,7 @@ body{
 .name{
     color: #121A38;
     font-weight: 700;
+    animation: move 1.5s ease-in-out;
 }
 .about-head{
     color: #657883;
