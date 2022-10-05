@@ -71,6 +71,17 @@ body{
     margin-top: 0.2em;
     animation: move 1.7s ease-in-out;
 }
+@keyframes move{
+    0%{
+        transform: translateX(25rem);
+    }
+    75%{
+        transform: translateX(-2rem);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
 .butn{
     width: fit-content;
     margin: auto;
