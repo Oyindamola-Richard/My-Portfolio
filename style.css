@@ -4,6 +4,7 @@
 }
 body{
     background-color: #ffffff;
+    overflow: hidden;
 }
 .navbar{
     position: fixed;
@@ -93,6 +94,18 @@ body{
 .btn{
     color: #7510F7;
     border: 1px solid #7510F7;
+    animation: hire 1s ease-in-out;
+}
+@keyframes hire{
+    0%{
+        transform: translateY(10rem);
+    }
+    75%{
+        transform: translateY(-2rem);
+    }
+    100%{
+        transform: translateY(0);
+    }
 }
 .btn:hover{
     background-color: #7510F7;
