@@ -51,6 +51,7 @@ body{
     color: #7510F7;
     font-weight: 700;
     font-size: 0.9em;
+    animation: move 1.4s ease-in-out;
 }
 .name{
     color: #121A38;
