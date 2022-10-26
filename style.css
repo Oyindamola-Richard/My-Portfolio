@@ -234,6 +234,7 @@ body{
     gap: 3em;    
 }
 .footer-resume{
+    color: #7510F7;
     border: 1px solid #7510F7;
     max-width: 20em;
     margin: auto;
