@@ -131,6 +131,10 @@ body{
     font-size: 0.8em;
     cursor: pointer;
 }
+.pro-header{
+    color: rgb(138, 135, 135);
+    cursor: pointer;
+}
 #wwtbam{
     background-image: url(/img/wwtbam.png);
     background-position: center;
