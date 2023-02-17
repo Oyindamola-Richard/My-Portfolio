@@ -40,14 +40,11 @@ body{
     display: inline-block;
     transition: all linear .3s;
 }
-.top{
-    height: 100vh;
-}
 .about-container{
     display: grid;
     max-width: 700px;
     margin: auto;
-    padding: 8em 0;
+    padding: 7em 0;
 }
 .hi{
     color: #7510F7;
@@ -69,7 +66,7 @@ body{
 .about-content{
     color: #657883;
     font-size: 1em;
-    max-width: 450px;
+    max-width: 700px;
     margin-top: 0.2em;
     animation: move 1.7s ease-in-out;
 }
@@ -281,6 +278,9 @@ footer{
     .about-content{
         font-size: 0.9em;
         max-width: 300px;
+    }
+    .about-container{
+        padding: 6em 0 1em 0em;
     }
     .contacts-div{
         display: grid;
