@@ -277,7 +277,7 @@ footer{
     }
     .about-content{
         font-size: 0.9em;
-        max-width: 300px;
+        max-width: fit-content;
     }
     .about-container{
         padding: 6em 0 1em 0em;
@@ -311,7 +311,7 @@ footer{
     }
     .about-content{
         font-size: 0.9em;
-        max-width: 330px;
+        max-width: fit-content;
     }
     .about-container{
         padding: 6em 0 1em 0em;
@@ -345,7 +345,7 @@ footer{
     }
     .about-content{
         font-size: 0.9em;
-        max-width: 370px;
+        max-width: fit-content;
     }
     .about-container{
         padding: 6em 0 1em 0em;
@@ -379,7 +379,10 @@ footer{
     }
     .about-content{
         font-size: 0.9em;
-        max-width: 370px;
+        max-width: fit-content;
+    }
+    .about-container{
+        padding: 7em 0 2em 0em;
     }
     .contacts-div{
         display: grid;
