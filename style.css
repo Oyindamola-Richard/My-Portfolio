@@ -286,6 +286,9 @@ footer{
         display: grid;
         grid-template-columns: 1fr;
     }
+    .con{
+        padding-left: 25px;
+    }
     footer{
         font-size: 0.8em;
     }
