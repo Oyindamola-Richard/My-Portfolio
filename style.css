@@ -144,9 +144,8 @@ body{
     animation: wwtbam 5s linear infinite;
 }
 @keyframes wwtbam{
-    20%{background-image: url(/img/wwtbam.png);}
-    60%{background-image: url(/img/wwtbam1.png);}
-    80%{background-image: url(/img/wwtbam2.png);}
+    30%{background-image: url(/img/wwtbam.png);}
+    70%{background-image: url(/img/wwtbam1.png);}
     100%{background-image: url(/img/wwtbam3.png);}
 }
 #weather{
